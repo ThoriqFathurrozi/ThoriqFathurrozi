@@ -1,4 +1,4 @@
-[![MasterHead](https://www.kibrispdr.org/data/1781/hacker-gif-50.gif)](https://google.com)
+[![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://google.com)
 
 <h1 align="center">Hi 👋, I'm Thoriq Fathurrozi</h1>
 <h3 align="center">A student from the Malang State Polytechnic</h3>
